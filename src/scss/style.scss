@@ -32,3 +32,10 @@ body{
     }
 
 }
+
+.info-header{
+    // set to 50% so text doesn't go over too far
+    width: 50%; 
+    margin: auto;
+    border-bottom: 1px #ddd solid; 
+}
